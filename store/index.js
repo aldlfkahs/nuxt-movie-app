@@ -1,0 +1,1 @@
+// index.js가 있어야 store가 활성화된다
